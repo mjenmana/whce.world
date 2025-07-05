@@ -1,8 +1,7 @@
 main:
   - title: "Data"
     url: /data/
-  - title: "About"
-    url: /about/
+  - title: "Download"
+    url: /download/
   - title: "Global Justice Project"
     url: https://inequalitylab.world/en/global-justice-project/
-
