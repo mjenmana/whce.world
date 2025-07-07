@@ -1,9 +1,14 @@
 ---
 title: Data download
-layout: single
-permalink: /download/
+layout: splash
 author_profile: false
+sidebar:
+  nav: none
+  disable: true
+permalink: /download/
 ---
+
+# Data download
 
 Download the full WHCE dataset
 
