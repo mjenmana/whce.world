@@ -116,4 +116,4 @@ tag_archive:
 
 #Disable RSS feed generation
 atom_feed:
-  path: false
+  hide: true
