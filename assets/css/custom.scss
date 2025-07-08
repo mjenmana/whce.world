@@ -1,3 +1,13 @@
-a.header-link {
+--- --- a.header-link {
   display: none;
+}
+
+.page__footer .social-icons .fa-rss,
+.page__footer .social-icons a[href$="feed.xml"],
+.page__footer .social-icons a[href*="/feed.xml"] {
+  display: none !important;
+}
+
+body {
+  background-color: pink !important;
 }
