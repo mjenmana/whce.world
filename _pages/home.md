@@ -1,7 +1,7 @@
 ---
-title: WHCE
+title:
 excerpt:
-layout: home
+layout: splash
 permalink: /
 author_profile: false
 ---
