@@ -20,4 +20,4 @@ nav_order: 2
 
 Download the working paper ([pdf](https://wid.world/document/human-capital-unequal-opportunities-and-productivity-convergence-a-global-historical-perspective-1800-2100-world-inequality-lab-working-paper-2025-15/))
 
-Download the presentation slides (pdf)
+Download the presentation slides ([pdf](/assets/pdf/Bhartietal2025Slides.pdf))
