@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the data
+title: data
 permalink: /data/
 nav: true
 nav_order: 3
