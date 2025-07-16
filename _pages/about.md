@@ -8,7 +8,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-
 <div style="text-align: center;">
     <img src="/assets/img/thammasat.jpg" alt="Thammasat University, opened in 1934, is the first public university in Thailand." width="80%">
     <p style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
