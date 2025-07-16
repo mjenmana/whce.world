@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: 
+description:
 nav: true
 nav_order: 4
 
@@ -33,7 +33,4 @@ profiles:
     image: li.jpg
     content: about_li.md
     image_circular: false # crops the image to make it circular
-
-
-
 ---
