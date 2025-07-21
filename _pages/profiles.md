@@ -30,7 +30,7 @@ profiles:
     content: about_thomas.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: li.jpg
+    image: li2.jpeg
     content: about_li.md
     image_circular: false # crops the image to make it circular
 ---
