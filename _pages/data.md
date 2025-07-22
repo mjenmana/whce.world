@@ -10,7 +10,7 @@ Download the full WHCE dataset ([xlsx](/assets/xlsx/Bhartietal2025WHCEFinalSerie
 
 Download the main figures and tables ([pdf](/assets/pdf/Bhartietal2025MainFiguresTables_Combined.pdf)) ([xlsx](/assets/xlsx/Bhartietal2025.xlsx))
 
-Download the full set of appendix figures ([pdf](/assets/pdf/Bhartietal2025Appendix.pdf)) ([xlsx](/assets/xlsx/Bhartietal2025Appendix.xlsx))
+Download the full set of appendix figures ([xlsx](/assets/xlsx/Bhartietal2025Appendix.xlsx))
 
 Download the full replication package ([zip](/assets/zip/Bhartietal2025.zip))
 
