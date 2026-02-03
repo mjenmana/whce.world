@@ -10,7 +10,7 @@ nav_order: 2
 
 ##### A Global Historical Perspective, 1800-2100
 
-###### N. Bharti, A. Gethin, T. Jenmana, Z. Mo, T. Piketty, and L. Yang (July, 2025)
+###### N. Bharti, A. Gethin, T. Jenmana, Z. Mo, T. Piketty, and L. Yang (March, 2026)
 
 <p align="center">
     <img src="/assets/img/fig7a.jpg" alt="Age-adjusted public education and health expenditure" width="80%" />

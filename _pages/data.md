@@ -14,4 +14,4 @@ Download the full set of appendix figures ([pdf](/assets/pdf/Bhartietal2025Appen
 
 Download the full replication package ([zip](/assets/zip/Bhartietal2025.zip))
 
-Please cite as <mark>Bharti, N., Gethin, A., Jenmana, T., Mo, Z., Piketty, T., & Yang, L. (2025, July). Human Capital, Unequal Opportunities, and Productivity Convergence: A Global Historical Perspective, 1800–2100. World Inequality Lab Working Paper No. 2025/15.</mark>
+Please cite as <mark>Bharti, N., Gethin, A., Jenmana, T., Mo, Z., Piketty, T., & Yang, L. (2026, March). Human Capital, Unequal Opportunities, and Productivity Convergence: A Global Historical Perspective, 1800–2100. _Journal of Public Economics, 255_, 105578. https://doi.org/10.1016/j.jpubeco.2026.105578.
